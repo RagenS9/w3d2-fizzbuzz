@@ -151,7 +151,7 @@
 
 // don't have to have anything in the parens. This just calls the function. sometimes you'll need to add some value. 
 
-function FizzBuss(n) {
+function FizzBuzz(n) {
     var output = '';
     // use plus sign to add
     return output;
