@@ -35,7 +35,7 @@ function FizzBuzz(n) {
         // this says that everything else (that wasn't divisible by 3, 5, or both by 3 and 5) should have the ouput of .
     }
     return output;
-    // this stops the loop
+    // this prints the results of the loop
 }
 FizzBuzz(15);
 // this assigns the number 15 to n. assigning it separately here allows the entire chain to be as general as possible. That way, if I wanted to run higher numbers, I could easily change just one line of code (this one) to be a different value.
